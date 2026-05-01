@@ -1,0 +1,33 @@
+Ingrese notas (0 - 100). Use -1 para salir.
+Nota: 21
+Nota: 32
+Nota: 43
+Nota: 54
+Nota: 65
+Nota: 76
+Nota: 87
+Nota: 98
+Nota: 0
+Nota: 12
+Nota: 23
+Arreglo lleno (max 10 notas)
+
+--- NOTAS INGRESADAS ---
+nota[0] = 21
+nota[1] = 32
+nota[2] = 43
+nota[3] = 54
+nota[4] = 65
+nota[5] = 76
+nota[6] = 87
+nota[7] = 98
+nota[8] = 0
+nota[9] = 12
+
+--- ESTADISTICAS ---
+Reprobados: 6
+Aprobados: 3
+Sobresalientes: 1
+Promedio: 48.8
+Maxima: 98
+Minima: 0
